@@ -43,10 +43,9 @@ section p{
 }
 
 @media(min-width: 1440px){
-    main{
-        width: 800px;
-    }
+    
     h3 {
         text-align: center;
     }
+    p{text-align: center;}
 }
