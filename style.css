@@ -17,9 +17,7 @@ main{
 
 nav{
     display: flex;
-    justify-content: center;
-    
-    
+    justify-content: center;   
 }
 
 #qr-code img{
@@ -47,5 +45,7 @@ section p{
     h3 {
         text-align: center;
     }
-    p{text-align: center;}
+    p{
+        text-align: center;
+    }
 }
